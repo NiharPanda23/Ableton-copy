@@ -1,0 +1,128 @@
+.header__nav{
+    display: flex;
+    overflow: hidden;
+    background-color: var(--color-white);
+}
+
+.header__logo{
+    flex: 1;
+    display: flex;
+    position: relative;
+    padding: 5px 0 5px 40px;
+    
+}
+
+.header__logo img{
+    width: 60px;
+    height: 60px;
+
+}
+.header__menu{
+    padding: 5px 80px 5px 0px;
+    flex: 1;
+    display: flex;
+
+    justify-content: flex-end;
+    align-items: center;
+    gap: 45px;
+
+    list-style: none;
+
+    font-family: var(--Poppins-font);
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.last__menu-item{
+    color: var(--orange-color);
+    padding-bottom: 10px;
+}
+
+span{
+    font-size: 32px;
+}
+
+.header__menu2{
+    padding: 5px 40px 5px 0px;
+    flex: 1;
+    display: flex;
+
+    justify-content: flex-end;
+    align-items: center;
+    gap: 45px;
+
+    list-style: none;
+    font-size: 19px;
+}
+
+.header__list{
+    color: var(--blue-color);
+}
+
+.header__second-list{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--Poppins-font);
+}
+
+hr {
+    border-top: 1px solid rgb(223, 222, 222);
+}
+
+.header__nav-second{
+    display: flex;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.second__nav{
+    flex: 1;
+    display: flex;
+    position: relative;
+    padding: 5px 0 5px 40px;
+    
+}
+.second__header-menu{
+    flex: 1;
+    display: flex;
+
+    justify-content: flex-start;
+    align-items: center;
+    gap: 40px;
+    padding: 15px 40px 15px 0px;
+    list-style: none;
+    
+    font-family: var(--Poppins-font);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.second__list-item{
+    color: var(--orange-color);
+}
+
+.hero___content{
+    display: flex;
+    overflow: hidden;
+    background-color: var(--color-white);
+}
+
+.hero__image{
+    margin: 0 auto;
+}
+
+.hero__image img{
+    width: 1300px;
+    height: 790px;
+}
+
+.hero__header{
+    font-family: var(--Poppins-font);
+    font-size: 84px;
+    font-weight: 600;
+
+    position: absolute;
+    color: var(--orange-color);
+
+    padding: 20.2rem 34.2rem;
+}
