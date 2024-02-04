@@ -1,0 +1,40 @@
+.why_abloton{
+    padding-top: 100px;
+    background: var(--color-white);
+}
+
+.why_abloton img {
+    width: 800px;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.why_abloton-desc {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: var(--pt-sans);
+  
+    color: var(--black);
+  
+    text-align: start;
+    background-color: var(--color-white);
+    padding: 0 20rem 0 20rem;
+
+}
+.why_abloton-desc h1 {
+    padding-top: 8rem;
+    line-height: 42px;
+    font-size: 28px;
+    margin: auto;
+    color: var(--black);
+}
+
+
+.why_abloton-desc p {
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 10px;
+    color: black;
+}

@@ -1,0 +1,25 @@
+.hero___content{
+    display: flex;
+    overflow: hidden;
+    background-color: var(--color-white);
+}
+
+.hero__image{
+    margin: 0 auto;
+}
+
+.hero__image img{
+    width: 1300px;
+    height: 790px;
+}
+
+.hero__header{
+    font-family: var(--pt-sans);
+    font-size: 84px;
+    font-weight: 600;
+
+    position: absolute;
+    color: var(--orange-color);
+
+    padding: 20.2rem 34.2rem;
+}

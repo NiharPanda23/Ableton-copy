@@ -1,0 +1,59 @@
+.music_making{
+    height: 70rem;
+    background: var(--color-white);
+    padding-top: 10rem;
+    position: relative;
+}
+
+.colored_div{
+    height: 933px;
+    width: 933px;
+    background-color: #fbffa7;
+    display: flex;
+    position: absolute;
+    right: 0px;    
+}
+
+.img1{
+    height: 667px;
+    width: 667px;
+    position: absolute;
+    top: 18rem;
+    left: 7rem;
+}
+.img2{
+    width: 533px;
+    height: 400px;
+    position: absolute;
+    top: 27rem;
+    right: 8rem;
+}
+
+.music_making-description {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: var(--pt-sans);
+  
+    color: var(--black);
+  
+    text-align: start;
+    background-color: var(--color-white);
+    padding: 0 20rem 0 20rem;
+
+}
+.music_making-description h1 {
+    padding-top: 8rem;
+    line-height: 42px;
+    font-size: 28px;
+    margin: auto;
+    color: var(--black);
+}
+
+
+.music_making-description p {
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 10px;
+    color: black;
+}
+

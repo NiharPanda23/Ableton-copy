@@ -28,7 +28,7 @@
 
     list-style: none;
 
-    font-family: var(--Poppins-font);
+    font-family: var(--pt-sans);
     font-size: 19px;
     font-weight: 500;
 }
@@ -53,6 +53,7 @@ span{
 
     list-style: none;
     font-size: 19px;
+   
 }
 
 .header__list{
@@ -62,7 +63,7 @@ span{
 .header__second-list{
     font-size: 16px;
     font-weight: 500;
-    font-family: var(--Poppins-font);
+    font-family: var(--pt-sans);
 }
 
 hr {
@@ -73,6 +74,7 @@ hr {
     display: flex;
     overflow: hidden;
     background-color: rgba(255, 255, 255, 0.8);
+    position: sticky;
 }
 
 .second__nav{
@@ -92,7 +94,7 @@ hr {
     padding: 15px 40px 15px 0px;
     list-style: none;
     
-    font-family: var(--Poppins-font);
+    font-family: var(--pt-sans);
     font-size: 16px;
     font-weight: 600;
 }
@@ -101,28 +103,3 @@ hr {
     color: var(--orange-color);
 }
 
-.hero___content{
-    display: flex;
-    overflow: hidden;
-    background-color: var(--color-white);
-}
-
-.hero__image{
-    margin: 0 auto;
-}
-
-.hero__image img{
-    width: 1300px;
-    height: 790px;
-}
-
-.hero__header{
-    font-family: var(--Poppins-font);
-    font-size: 84px;
-    font-weight: 600;
-
-    position: absolute;
-    color: var(--orange-color);
-
-    padding: 20.2rem 34.2rem;
-}

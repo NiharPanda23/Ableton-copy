@@ -1,0 +1,31 @@
+.ableton__description {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: var(--pt-sans);
+  
+    color: var(--black);
+  
+    text-align: start;
+    background-color: var(--color-white);
+    padding: 0 20rem 0 20rem;
+
+}
+.ableton__description h1 {
+    padding-top: 8rem;
+    line-height: 42px;
+    font-size: 28px;
+    margin: auto;
+    color: var(--black);
+}
+
+.ableton__description a {
+    color: var(--blue-color);
+}
+
+.ableton__description p {
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 10px;
+    color: black;
+}
+
