@@ -1,0 +1,63 @@
+.webelive{
+    background-color: var(--color-white);
+    position: relative;
+    padding-top: 11rem;
+}
+
+.webelive_colored-div{
+    width: 933px;
+    height: 1200px;
+    background-color: #b6ffc0;
+}
+
+.webelive_img1{
+    width: 533px;
+    height: 400px;
+    position: absolute;
+    top: 19rem;
+    left: 8rem;
+}
+
+.webelive_img2{
+    width: 533px;
+    height: 400px;
+    position: absolute;
+    top: 52.8rem;
+    left: 8rem;
+}
+
+.webelive_img3{
+    width: 667px;
+    height: 667px;
+    position: absolute;
+    top: 28rem;
+    right: 8rem;
+}
+
+.webelive-description {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: var(--pt-sans);
+  
+    color: var(--black);
+  
+    text-align: start;
+    background-color: var(--color-white);
+    padding: 0 20rem 0 20rem;
+
+}
+.webelive-description h1 {
+    padding-top: 8rem;
+    line-height: 42px;
+    font-size: 28px;
+    margin: auto;
+    color: var(--black);
+}
+
+
+.webelive-description p {
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 10px;
+    color: black;
+}
