@@ -1,0 +1,39 @@
+.passion{
+    background-color: var(--color-white);
+    padding-top: 10rem;
+}
+
+.passion img{
+    width: 1333px;
+    height: 750px;
+    display: block;
+    margin: auto;
+}
+
+.passion-description {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: var(--pt-sans);
+  
+    color: var(--black);
+  
+    text-align: start;
+    background-color: var(--color-white);
+    padding: 0 20rem 0 20rem;
+
+}
+.passion-description h1 {
+    padding-top: 8rem;
+    line-height: 42px;
+    font-size: 28px;
+    margin: auto;
+    color: var(--black);
+}
+
+
+.passion-description p {
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 10px;
+    color: black;
+}
