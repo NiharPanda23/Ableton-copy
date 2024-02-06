@@ -1,0 +1,28 @@
+.proud {
+    background-color: var(--color-white);
+    padding: 10rem 0 8rem 0;
+    display: flex;
+    justify-content: center;
+
+}
+
+.proud_color{
+    height: 667px;
+    width: 667px;
+    background-color: #b1c5ff;
+}
+
+.proud_color-div{
+    width: 415px;
+    height: 40px;
+    margin: 16rem auto;
+}
+.proud_color-div h1{
+    font-size: 30px;
+    line-height: 42px;
+}
+
+.proud_color-div h1:last-child{
+    color: #0000ff;
+    margin-top: 40px;
+}
