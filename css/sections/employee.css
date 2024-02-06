@@ -1,0 +1,56 @@
+.employee{
+    position: relative;
+    background-color: var(--color-white);
+    padding-top: 10rem;
+}
+
+.employee_img1{
+    width: 533px;
+    height: 400px;
+    position: absolute;
+    left: 8rem;
+    top: 28rem;
+}
+.employee_img2{
+    width: 667px;
+    height: 667px;
+    position: absolute;
+    right: 0rem;
+    top: 18rem;
+}
+
+.employee_color{
+    width: 1067px;
+    height: 933px;
+    background-color: #d5b3ff;
+    display: block;
+    margin: 0 auto;
+}
+
+.employee_description {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: var(--pt-sans);
+  
+    color: var(--black);
+  
+    text-align: start;
+    background-color: var(--color-white);
+    padding: 0 20rem 0 20rem;
+
+}
+.employee_description h1 {
+    padding-top: 8rem;
+    line-height: 42px;
+    font-size: 28px;
+    margin: auto;
+    color: var(--black);
+}
+
+
+.employee_description p {
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 10px;
+    color: black;
+}
