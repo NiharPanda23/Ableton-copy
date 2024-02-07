@@ -10,6 +10,7 @@
 @import url("sections/passion.css");
 @import url("sections/employee.css");
 @import url("sections/proud.css");
+@import url("sections/footer.css");
 
 
 :root{
@@ -78,4 +79,12 @@ a{
     color: var(--orange-color);
   
     margin-top: 16px;
+}
+
+i{
+    vertical-align: middle;
+}
+
+li{
+    list-style: none;
 }

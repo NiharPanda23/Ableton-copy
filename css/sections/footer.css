@@ -1,0 +1,123 @@
+.footer {
+    background-color: var(--color-white);
+    padding-top: 6rem;
+    display: flex;
+    justify-content: center;
+}
+
+.footer_container{
+    width: 82rem;
+    height: 40rem;
+}
+
+.footer_header{
+    width: 14rem;
+    padding-bottom: 6rem;
+}
+
+.footer_list-menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_list-menu li{
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.footer_list-menu1{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-between;
+    width: 31.5rem;
+    
+}
+.footer_list-menu1 li{
+    line-height: 30px;
+    font-size: 20px;
+
+}
+
+.footer_list-menu1 div{
+    display: flex;
+}
+
+/* .selection_main{
+    margin-left: 4rem;
+} */
+
+.selection1 {
+    margin-top: 1rem;
+    width: 6rem;
+    height: 2rem;
+    background-color: #f3f3f3;
+    border: none;
+    outline: none;
+}
+.selection2 {
+    background-color: #f3f3f3;
+    margin-top: 1rem;
+    width: 100px;
+    height: 2rem;
+    margin-left: 2px;
+    border: none;
+    outline: none;
+}
+.selection option{
+    width: 10rem;
+    height: 6rem;
+    line-height: 30px;
+}
+
+
+
+
+
+.footer_list-menu input{
+    width: 24rem;
+    height: 2.5rem;
+    margin-top: 20px;
+    background-color: #f3f3f3;
+    outline: none;
+    border: none;
+    
+}
+
+.footer_list-menu input::placeholder{
+    font-size: 20px;
+    padding-left: 8px;
+
+    
+}
+
+.footer_list-menu input:focus{
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.footer_list-menu .btn{
+    width: 80px;
+    height: 42px;
+    background-color: #0000ff;
+    color: var(--color-white);
+    outline: none;
+    border: none;
+    margin-top: 0;
+    margin-left: -5px;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+.footer_list2{
+    margin-top: 6rem;
+    display: flex;
+    justify-content: space-between;
+}
+.footer_list2 ul{
+    display: flex;
+}
+
+.footer_list2 li{
+    
+    margin-right: 30px;
+}
